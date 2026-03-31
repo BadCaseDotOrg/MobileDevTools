@@ -54,7 +54,7 @@
 
 ### Chrome Desktop (Recommended for Desktop)
 
-1. Download the latest ZIP release from [Releases](https://github.com/BadCaseDotOrg/BloX/releases).
+1. Download the latest ZIP release from [Releases](https://github.com/BadCaseDotOrg/MobileDevTools/releases).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (toggle top-right).
 4. Click **Load unpacked** and select the extracted folder from the ZIP.
@@ -63,7 +63,7 @@
 
 ### Quetta Mobile (Recommended for Mobile)
 
-1. Download the latest ZIP release from [Releases](https://github.com/BadCaseDotOrg/BloX/releases).
+1. Download the latest ZIP release from [Releases](https://github.com/BadCaseDotOrg/MobileDevTools/releases).
 2. Open **[Quetta Mobile](https://play.google.com/store/apps/details?id=net.quetta.browser)**, go to **Settings → Extensions**, and scroll to the bottom and select **Developer options**.
 3. Enable **Developer mode** (toggle in the upper right).
 4. Tap **(from .zip/.crx/.user.js)** and select the downloaded ZIP file.
@@ -73,7 +73,7 @@
 
 ### Firefox Nightly Desktop (using CRX Installer)
 
-1. Download the latest CRX release from [Releases](https://github.com/BadCaseDotOrg/BloX/releases).
+1. Download the latest CRX release from [Releases](https://github.com/BadCaseDotOrg/MobileDevTools/releases).
 2. Download and install **Firefox Nightly**:  
    - **Desktop:** [Firefox Nightly for Windows/macOS/Linux](https://www.mozilla.org/firefox/channel/desktop/)
 3. Install the **CRX Installer** add-on from [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/).
@@ -84,7 +84,7 @@
 
 ### Firefox Nightly Mobile (using CRX Installer)
 
-1. Download the latest CRX release from [Releases](https://github.com/BadCaseDotOrg/BloX/releases).
+1. Download the latest CRX release from [Releases](https://github.com/BadCaseDotOrg/MobileDevTools/releases).
 2. Download and install **Firefox Nightly**:  
    - **Android:** [Firefox Nightly for Developers on Google Play](https://play.google.com/store/apps/details?id=org.mozilla.fenix)
 3. Install the **CRX Installer** add-on from [Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/crxinstaller/).
