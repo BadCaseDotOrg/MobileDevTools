@@ -1,0 +1,18 @@
+{
+  "name": "badcases-devtools",
+  "version": "1.0.0",
+  "description": "Mobile DevTools extension",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild content/main.js --bundle --sourcemap --outfile=content.bundle.js",
+    "watch": "esbuild content/main.js --bundle --sourcemap --outfile=content.bundle.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "esbuild": "^0.27.4"
+  }
+}
