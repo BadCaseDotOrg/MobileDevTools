@@ -43,7 +43,7 @@
 <img src="./img/network.jpg" alt="Desktop Main Panel" width="300">
 
 **Storage Panel**  
-<img src="./img/network.jpg" alt="Desktop Main Panel" width="300">
+<img src="./img/storage.jpg" alt="Desktop Main Panel" width="300">
 
 **Collapsed Panel**  
 <img src="./img/collapsed.jpg" alt="Desktop Main Panel" width="300">
