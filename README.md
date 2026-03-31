@@ -1,6 +1,6 @@
 # Mobile DevTools Browser Extension
 
-![BloX Logo](./badcases-blox/img/icon128.png) 
+![Mobile DevTools Logo](./badcases-devtools/img/icon128.png) 
 
 **Mobile DevTools** is a browser extension that brings full desktop-class inspection tools to your mobile browser. It provides a collapsible, draggable interface that allows you to debug the Console, DOM, CSS, and Network requests directly on the page, eliminating the need for remote debugging setups or constant tab switching.
 
@@ -30,23 +30,23 @@
 
 ## Screenshots
 
-**Main Panel (Desktop)**  
-<img src="./img/desktop_panel.png" alt="Desktop Main Panel" width="600">
+**DOM Inspector**  
+<img src="./img/dom-inspector.jpg" alt="Desktop Main Panel" width="300">
 
-**Trophy Room (Desktop)**  
-<img src="./img/desktop_trophy.png" alt="Desktop Trophy Room" width="600">
+**CSS Inspector**  
+<img src="./img/css-inspector.jpg" alt="Desktop Main Panel" width="300">
 
-**Trophy Room with Settings (Desktop)**  
-<img src="./img/desktop_trophy_settings.png" alt="Desktop Trophy Room Settings" width="600">
+**Console**  
+<img src="./img/console.jpg" alt="Desktop Main Panel" width="300">
 
-**Main Panel (Mobile)**  
-<img src="./img/mobile_panel.jpg" alt="Mobile Main Panel" width="300">
+**Network Panel**  
+<img src="./img/network.jpg" alt="Desktop Main Panel" width="300">
 
-**Trophy Room (Mobile)**  
-<img src="./img/mobile_trophy.jpg" alt="Mobile Trophy Room" width="300">
+**Storage Panel**  
+<img src="./img/network.jpg" alt="Desktop Main Panel" width="300">
 
-**Trophy Room with Settings (Mobile)**  
-<img src="./img/mobile_trophy_settings.jpg" alt="Mobile Trophy Room Settings" width="300">
+**Collapsed Panel**  
+<img src="./img/collapsed.jpg" alt="Desktop Main Panel" width="300">
 
 ---
 
